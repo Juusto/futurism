@@ -11,10 +11,11 @@
     "sv": "Svenska",
     "nb": "Norsk Bokmål",
     "it": "Italiano",
-    "hu": "Magyar"
+    "hu": "Magyar",
+    "fi": "Suomi"
   },
-
-
+ 
+ 
   "translators": {
     "en": "",
     "ko": "",
@@ -27,10 +28,11 @@
     "sv": "jonswe",
     "nb": "-Shadowfax-",
     "it": "DforDerpdetta",
-    "hu": "Whatermelon"
+    "hu": "Whatermelon",
+    "fi": "Juustokakku"
   },
-
-
+ 
+ 
   "title": {
     "gameName": {
       "en": "FUTURISM",
@@ -44,9 +46,10 @@
       "es": "FUTURISMO",
       "nb": "FUTURISME",
       "it": "Futurismo",
-      "hu": "Futurism"
+      "hu": "Futurism",
+      "fi": "Futurismi"
     },
-
+ 
     "login": {
       "en": "LOGIN",
       "ko": "놀이",
@@ -59,9 +62,10 @@
       "es": "Ingresar",
       "nb": "Logg inn",
       "it": "Entra",
-      "hu": "Bejelentkezés"
+      "hu": "Bejelentkezés",
+      "fi": "Kirjaudu sisään"
     },
-
+ 
     "credits": {
       "en": "CREDITS",
       "ko": "인정함",
@@ -74,9 +78,10 @@
       "es": "Créditos",
       "nb": "MEDVIRKENDE",
       "it": "Ringraziamenti",
-      "hu": "Készítők"
+      "hu": "Készítők",
+      "fi": "Tekijät"
     },
-
+ 
     "instructions": {
       "en": "EDU-VIDS",
       "ko": "명령",
@@ -89,11 +94,12 @@
       "es": "Videos educativos",
       "nb": "INSTRUKSJONSVIDEOER",
       "it": "Istruzioni",
-      "hu": "Instrukciók"
+      "hu": "Instrukciók",
+      "fi": "Ohjeet"
     }
   },
-
-
+ 
+ 
   "cardBuilder": {
     "saveAndLoad": {
       "en": "Save n Load",
@@ -107,9 +113,10 @@
       "es": "Guardar y cargar",
       "nb": "Lagre og åpne",
       "it": "Salva e Carica",
-      "hu": "Mentés és Betöltés"
+      "hu": "Mentés és Betöltés",
+      "fi": "Tallenna ja lataa"
     },
-
+ 
     "nameIt": {
       "en": "Name It",
       "ko": "이름",
@@ -122,9 +129,10 @@
       "es": "Nombrar",
       "nb": "Navngi det",
       "it": "Nominala",
-      "hu": "Nevezd el"
+      "hu": "Nevezd el",
+      "fi": "Anna nimi"
     },
-
+ 
     "imageUpload": {
       "en": "Image Upload",
       "ko": "영상",
@@ -137,9 +145,10 @@
       "es": "Cargar imagen",
       "nb": "Bildeopplasting",
       "it": "Carica un'immagine",
-      "hu": "Képfeltöltés"
+      "hu": "Képfeltöltés",
+      "fi": "Lataa kuva"
     },
-
+ 
     "factionAbilities": {
       "en": "Faction Abilities",
       "ko": "능력",
@@ -152,9 +161,10 @@
       "es": "Habilidades de la facción",
       "nb": "Klanegenskaper",
       "it": "Abilità della fazione",
-      "hu": "Képességek"
+      "hu": "Képességek",
+      "fi": "Ryhmän kyvyt"
     },
-
+ 
     "save": {
       "en": "Save",
       "ko": "저장",
@@ -167,9 +177,10 @@
       "es": "Guardar",
       "nb": "Lagre",
       "it": "Salva",
-      "hu": "Mentés"
+      "hu": "Mentés",
+      "fi": "Tallenna"
     },
-
+ 
     "load": {
       "en": "Load",
       "ko": "하중",
@@ -182,9 +193,10 @@
       "es": "Cargar",
       "nb": "Åpne",
       "it": "Carica",
-      "hu": "Betöltés"
+      "hu": "Betöltés",
+      "fi": "Lataa"
     },
-
+ 
     "new": {
       "en": "New",
       "ko": "새로운",
@@ -197,9 +209,10 @@
       "es": "Nueva",
       "nb": "Ny",
       "it": "Nuova",
-      "hu": "Új"
+      "hu": "Új",
+      "fi": "Uuusi"
     },
-
+ 
     "delete": {
       "en": "Delete",
       "ko": "삭제",
@@ -212,9 +225,10 @@
       "es": "Eliminar",
       "nb": "Slett",
       "it": "Elimina",
-      "hu": "Törlés"
+      "hu": "Törlés",
+      "fi": "Poista"
     },
-
+ 
     "attack": {
       "en": "Attack",
       "ko": "공격",
@@ -227,9 +241,10 @@
       "es": "Ataque",
       "nb": "Angrip",
       "it": "Attacca",
-      "hu": "Támadás"
+      "hu": "Támadás",
+      "fi": "Hyökkäys"
     },
-
+ 
     "health": {
       "en": "Health",
       "ko": "건강",
@@ -242,11 +257,12 @@
       "es": "Vida",
       "nb": "Helse",
       "it": "Salute",
-      "hu": "Élet"
+      "hu": "Élet",
+      "fi": "Terveys"
     }
   },
-
-
+ 
+ 
   "game": {
     "endTurn": {
       "en": "End Turn",
@@ -254,65 +270,72 @@
       "ne": "Eindig Beurt",
       "lt": "Užbaigti ėjimą",
       "hu": "Fordulat vége",
-      "nb": "Avslutt runden"
+      "nb": "Avslutt runden",
+      "fi": "Päätä vuoro"
     },
-
+ 
     "pride": {
       "en": "Pride",
       "ct": "meow",
       "ne": "Trots",
       "lt": "Vertė",
       "hu": "Büszkeség",
-      "nb": "Stolthet"
+      "nb": "Stolthet",
+      "fi": "Ylpeys"
     },
-
+ 
     "close": {
       "en": "close",
       "ct": "meow",
       "ne": "Dicht doen",
       "lt": "uždaryti",
       "hu": "bezár",
-      "nb": "lukk"
+      "nb": "lukk",
+      "fi": "Sulje"
     },
-
+ 
     "futures": {
       "en": "Futures",
       "ct": "meow",
       "ne": "Futures",
       "lt": "Ateities taškai",
       "hu": "Jövendők",
-      "nb": "Fremtider"
+      "nb": "Fremtider",
+      "fi": "Tulevaisuudet"
     },
-
+ 
     "showFutures": {
       "en": "Show Futures",
       "ct": "meow",
       "ne": "Laat Futures zien",
       "lt": "Rodyti ateities sugebėjimus",
       "hu": "Jövendők Mutatása",
-      "nb": "Vis fremtider"
+      "nb": "Vis fremtider",
+      "fi": "Näytä Tulevaisuudet"
     },
-
+ 
     "showHand": {
       "en": "Show Hand",
       "ct": "meow",
       "ne": "Laat Hand zien",
       "lt": "Kortos rankoje",
       "hu": "Kezelő Mutatása",
-      "nb": "Vis hånda"
+      "nb": "Vis hånda",
+      "fi": "Näytä käsi"
     },
-
+ 
     "forfeit": {
       "en": "Forfeit",
       "ct": "meow",
       "ne": "Verlaten",
       "lt": "Pasitraukti",
       "hu": "Felmondás",
-      "nb": "Forlat kampen"
+      "nb": "Forlat kampen",
+      "fi": "Luovuta"
     }
   },
-
-
+ 
+ 
   "chat": {
     "say": {
       "en": "say",
@@ -326,9 +349,10 @@
       "es": "Enviar",
       "nb": "si",
       "it": "Invia",
-      "hu": "mondd"
+      "hu": "mondd",
+      "fi": "Keskustelu"
     },
-
+ 
     "placeholder": {
       "en": "type to chat",
       "ko": "말을 입력",
@@ -341,11 +365,12 @@
       "es": "Escribe para conversar",
       "nb": "skriv for å chatte",
       "it": "Scrivi per mandare messaggi",
-      "hu": "ide írj!"
+      "hu": "ide írj!",
+      "fi": "Kirjoita jotain"
     }
   },
-
-
+ 
+ 
   "deckBuilder": {
     "saveAndLoad": {
       "en": "Save n Load",
@@ -359,9 +384,10 @@
       "es": "Guardar y cargar",
       "nb": "Lagre og åpne",
       "it": "Salva e Carica",
-      "hu": "Mentés és Betöltés"
+      "hu": "Mentés és Betöltés",
+      "fi": "Tallenna ja lataa"
     },
-
+ 
     "save": {
       "en": "Save",
       "ko": "저장",
@@ -374,9 +400,10 @@
       "es": "Guardar",
       "nb": "Lagre",
       "it": "Salva",
-      "hu": "Mentés"
+      "hu": "Mentés",
+      "fi": "Tallenna"
     },
-
+ 
     "load": {
       "en": "Load",
       "ko": "하중",
@@ -389,9 +416,10 @@
       "es": "Cargar",
       "nb": "Åpne",
       "it": "Carica",
-      "hu": "Betöltés"
+      "hu": "Betöltés",
+      "fi": "Lataa"
     },
-
+ 
     "new": {
       "en": "New",
       "ko": "새로운",
@@ -404,9 +432,10 @@
       "es": "Nuevo",
       "nb": "Ny",
       "it": "Nuova",
-      "hu": "Új"
+      "hu": "Új",
+      "fi": "Uusi"
     },
-
+ 
     "delete": {
       "en": "Delete",
       "ko": "삭제",
@@ -419,9 +448,10 @@
       "es": "Eliminar",
       "nb": "Slett",
       "it": "Elimina",
-      "hu": "Törlés"
+      "hu": "Törlés",
+      "fi": "Poista"
     },
-
+ 
     "nameIt": {
       "en": "Name It",
       "ko": "이름",
@@ -434,9 +464,10 @@
       "es": "Nombrar",
       "nb": "Navngi det",
       "it": "Nominalo",
-      "hu": "Nevezd el"
+      "hu": "Nevezd el",
+      "fi": "Anna nimi"
     },
-
+ 
     "cards": {
       "en": "Cards",
       "ko": "카드",
@@ -449,9 +480,10 @@
       "es": "Cartas",
       "nb": "Kort",
       "it": "Carte",
-      "hu": "Kártyák"
+      "hu": "Kártyák",
+      "fi": "Kortit"
     },
-
+ 
     "deckPride": {
       "en": "Deck Pride",
       "ko": "자존심",
@@ -464,11 +496,12 @@
       "es": "Orgullo del mazo",
       "nb": "Korstokkens Stolthet",
       "it": "Valore del mazzo",
-      "hu": "Kártyacsomag Büszkeség"
+      "hu": "Kártyacsomag Büszkeség",
+      "fi": "Korttien ylpeys"
     }
   },
-
-
+ 
+ 
   "errorPage": {
     "error": {
       "en": "Error",
@@ -482,11 +515,12 @@
       "es": "Error",
       "nb": "Feil",
       "it": "Errore!",
-      "hu": "Hiba!"
+      "hu": "Hiba!",
+      "fi": "Es pärisee"
     }
   },
-
-
+ 
+ 
   "preDeck": {
     "maxPride": {
       "en": "Max Pride",
@@ -500,11 +534,12 @@
       "es": "Máximo orgullo",
       "nb": "Maksimal Stolthet",
       "it": "Valore massimo",
-      "hu": "Max Büszkeség"
+      "hu": "Max Büszkeség",
+      "fi": "Maksimi ylpeys"
     }
   },
-
-
+ 
+ 
   "lobby": {
     "player": {
       "en": "players",
@@ -518,9 +553,10 @@
       "es": "jugadores",
       "nb": "spiller",
       "it": "Giocatori",
-      "hu": "játékosok"
+      "hu": "játékosok",
+      "fi": "Pelaajat"
     },
-
+ 
     "pride": {
       "en": "pride",
       "ko": "자존심",
@@ -533,9 +569,10 @@
       "es": "orgullo",
       "nb": "stolthet",
       "it": "Valore",
-      "hu": "büszkeség"
+      "hu": "büszkeség",
+      "fi": "ylpeys"
     },
-
+ 
     "join": {
       "en": "join",
       "ko": "가입",
@@ -548,9 +585,10 @@
       "es": "unirse",
       "nb": "bli med",
       "it": "unisciti",
-      "hu": "csatlakozás"
+      "hu": "csatlakozás",
+      "fi": "liity"
     },
-
+ 
     "start": {
       "en": "start",
       "ko": "스타트",
@@ -563,9 +601,10 @@
       "es": "Iniciar",
       "nb": "start",
       "it": "inizia",
-      "hu": "indítás"
+      "hu": "indítás",
+      "fi": "aloita"
     },
-
+ 
     "chat": {
       "en": "chat",
       "ko": "이야기",
@@ -578,9 +617,10 @@
       "es": "chat",
       "nb": "chatterom",
       "it": "chat",
-      "hu": "chat"
+      "hu": "chat",
+      "fi": "keskustelu"
     },
-
+ 
     "people": {
       "en": "people",
       "ko": "사람들",
@@ -593,9 +633,10 @@
       "es": "personas",
       "nb": "personer",
       "it": "persone",
-      "hu": "emberek"
+      "hu": "emberek",
+      "fi": "ihmiset"
     },
-
+ 
     "futures": {
       "en": "futures",
       "lt": "Ateities Taškai",
@@ -605,9 +646,10 @@
       "pi": "Days after tomorrow",
       "nb": "fremtider",
       "hu": "jövendők",
-      "ne": "toekomsten"
+      "ne": "toekomsten",
+      "fi": "tulevaisuudet"
     },
-
+ 
     "shortGame": {
       "en": "Skirmish",
       "lt": "Susiremimas",
@@ -617,9 +659,10 @@
       "pi": "Skirmish",
       "nb": "Kamp",
       "hu": "Csetepaté",
-      "ne": "Kort gevecht"
+      "ne": "Kort gevecht",
+      "fi": "Kahakka"
     },
-
+ 
     "mediumGame": {
       "en": "Battle",
       "lt": "Kova",
@@ -629,9 +672,10 @@
       "pi": "Raid",
       "nb": "Slag",
       "hu": "Csata",
-      "ne": "Strijd"
+      "ne": "Strijd",
+      "fi": "Taistelu"
     },
-
+ 
     "longGame": {
       "en": "War",
       "lt": "Karas",
@@ -641,9 +685,10 @@
       "pi": "War",
       "nb": "Krig",
       "hu": "Háború",
-      "ne": "Veldslag"
+      "ne": "Veldslag",
+      "fi": "Sota"
     },
-
+ 
     "customGame": {
       "en": "Custom",
       "ko": "관습",
@@ -656,9 +701,10 @@
       "es": "Personalizado",
       "it": "Personalizzato",
       "nb": "Egendefinert",
-      "hu": "Egyéni"
+      "hu": "Egyéni",
+      "fi": "Muokattu"
     },
-
+ 
     "custom": {
       "en": "custom",
       "ko": "관습",
@@ -670,9 +716,10 @@
       "sv": "Anpassad",
       "es": "personalizado",
       "nb": "Egendefinert",
-      "hu": "egyéni"
+      "hu": "egyéni",
+      "fi": "Muokattu"
     },
-
+ 
     "guild": {
       "en": "guild",
       "ko": "대가족",
@@ -684,11 +731,12 @@
       "sv": "klan",
       "es": "gremio",
       "nb": "klan",
-      "hu": "klán"
+      "hu": "klán",
+      "fi": "kilta"
     }
   },
-
-
+ 
+ 
   "nav": {
     "toggle": {
       "en": "Toggle Navigation",
@@ -702,9 +750,10 @@
       "es": "Habilitar barra de navegación",
       "nb": "Bytt Navigasjon",
       "it": "Abilita la navigazione",
-      "hu": "Váltás Navigációra"
+      "hu": "Váltás Navigációra",
+      "fi": "Säädä navigaatiota"
     },
-
+ 
     "futurism": {
       "en": "Futurism",
       "ko": "미래의 배",
@@ -717,9 +766,10 @@
       "es": "Futurismo",
       "nb": "Futurisme",
       "it": "Futurismo",
-      "hu": "Futurism"
+      "hu": "Futurism",
+      "fi": "Futurismi"
     },
-
+ 
     "deckBuilder": {
       "en": "Deck Builder",
       "ko": "갑판",
@@ -732,9 +782,10 @@
       "es": "Constructor de mazos",
       "nb": "Kortstokkbygger",
       "it": "Creatore dei mazzi",
-      "hu": "Kártyacsomag Készítő"
+      "hu": "Kártyacsomag Készítő",
+      "fi": "Pakan Rakennus"
     },
-
+ 
     "cardBuilder": {
       "en": "Card Builder",
       "ko": "카드",
@@ -747,9 +798,10 @@
       "es": "Constructor de cartas",
       "nb": "Kortbygger",
       "it": "Creatore delle carte",
-      "hu": "Kártya Készítő"
+      "hu": "Kártya Készítő",
+      "fi": "Kortin Rakennus"
     },
-
+ 
     "lobby": {
       "en": "Lobby",
       "ko": "로비",
@@ -762,9 +814,10 @@
       "es": "Lobby",
       "nb": "Lobby",
       "it": "Lobby",
-      "hu": "Előcsarnok"
+      "hu": "Előcsarnok",
+      "fi": "Aula"
     },
-
+ 
     "stats": {
       "en": "My Stats",
       "ko": "통계",
@@ -777,9 +830,10 @@
       "es": "Mis estadísticas",
       "nb": "Min Statistikk",
       "it": "Le mie statistiche",
-      "hu": "Statisztikáim"
+      "hu": "Statisztikáim",
+      "fi": "Omat Tilastot"
     },
-
+ 
     "messages": {
       "en": "Messages",
       "ko": "메시지",
@@ -792,9 +846,10 @@
       "es": "Mensajes",
       "nb": "Meldinger",
       "it": "Messaggi",
-      "hu": "Üzenetek"
+      "hu": "Üzenetek",
+      "fi": "Viestit"
     },
-
+ 
     "logout": {
       "en": "Logout",
       "ko": "로그 아웃",
@@ -807,9 +862,10 @@
       "es": "Cerrar sesión",
       "nb": "Logg ut",
       "it": "Esci",
-      "hu": "Kijelentkezés"
+      "hu": "Kijelentkezés",
+      "fi": "Kirjaudu ulos"
     },
-
+ 
     "language": {
       "en": "Language",
       "ko": "언어",
@@ -822,9 +878,10 @@
       "es": "Idioma",
       "nb": "Språk",
       "it": "Lingua",
-      "hu": "Nyelv"
+      "hu": "Nyelv",
+      "fi": "Kieli"
     },
-
+ 
     "futures": {
       "en": "Futures",
       "ct": "meow",
@@ -834,9 +891,10 @@
       "pi": "Days after tomorrow",
       "nb": "Fremtider",
       "hu": "Jövendők",
-      "ne": "Toekomsten"
+      "ne": "Toekomsten",
+      "fi": "Tulevaisuudet"
     },
-
+ 
     "guild": {
       "en": "Guild",
       "ko": "대가족",
@@ -849,11 +907,12 @@
       "es": "Gremio",
       "it": "Gilda",
       "nb": "Laug",
-      "hu": "Klán"
+      "hu": "Klán",
+      "fi": "Kilta"
     }
   },
-
-
+ 
+ 
   "factions": {
     "en": {
       "name": {
@@ -868,7 +927,8 @@
         "es": "Ent",
         "nb": "Ent",
         "it": "Ent",
-        "hu": "Ent"
+        "hu": "Ent",
+        "fi": "Entti"
       },
       "desc": {
         "en": "Seeking a bond with nature, the Ents tinkered with their own dna. A wild group of nomads, they say you'll never meet the same Ent twice.",
@@ -882,10 +942,11 @@
         "es": "En la búsqueda de un lazo con la naturaleza, los Ents alteraron su propio ADN. Son un grupo salvaje de nómades, y dicen que nunca verás al mismo Ent dos veces.",
         "nb": "I sin søknad etter et bånd med naturen tuklet entene med sitt eget DNA. De er en vill gruppe nomader, og det sies at du aldri møter den samme enten to ganger.",
         "it": "Cercando un legame con la natura, gli Ent hanno modificato il loro DNA. Sono un gruppo di nomadi, e si dice che non si può vedere un Ent più di due volte.",
-        "hu": "Seeking a bond with nature, the Ents tinkered with their own dna. A wild group of nomads, they say you'll never meet the same Ent twice."
+        "hu": "Seeking a bond with nature, the Ents tinkered with their own dna. A wild group of nomads, they say you'll never meet the same Ent twice.",
+        "fi": "Etsien yhteyttä luontoon, Entit kopeloivat omaa DNA:taan. Sanotaan että koskaan ei tapaa samaa Enttiä kahdesti."
       }
     },
-
+ 
     "mc": {
       "name": {
         "en": "Machine",
@@ -899,7 +960,8 @@
         "es": "Máquina",
         "nb": "Maskin",
         "it": "Macchina",
-        "hu": "Gépezet"
+        "hu": "Gépezet",
+        "fi": "Kone"
       },
       "desc": {
         "en": "The relentless pursuit of knowledge lead some to improve their minds with metal. They have become far more than humans ever were, and far less.",
@@ -913,10 +975,11 @@
         "es": "La búsqueda incansable del conocimiento llevó a algunos a mejorar sus mentes con metal. Se han convertido en mucho más que lo que los humanos nunca llegaron a ser, y en mucho menos.",
         "nb": "Den nådeløse jakten på kunnskap fører noen til å bedre sin mentale tankegang med metall. De har blitt langt mer enn mennesker noen sinne var, men også langt mindre.",
         "it": "L'incessabile ricerca di conoscenza ha portato alcuni a migliorare i loro cervelli con il metallo. Ora sono diventati molto più di come siano sempre stati gli umani, e molto di meno.",
-        "hu": "The relentless pursuit of knowledge lead some to improve their minds with metal. They have become far more than humans ever were, and far less."
+        "hu": "The relentless pursuit of knowledge lead some to improve their minds with metal. They have become far more than humans ever were, and far less.",
+        "fi": "Loputon tiedon tavoittelu johti ihmismielen ja metallin yhdistämiseen. Heistä on tullut paljon enemmän mitä ihmiset ovat koskaan olleet, ja paljon vähemmän."
       }
     },
-
+ 
     "el": {
       "name": {
         "en": "Elite",
@@ -930,7 +993,8 @@
         "es": "Élite",
         "nb": "Elite",
         "it": "Elite",
-        "hu": "Elit"
+        "hu": "Elit",
+        "fi": "Eliitti"
       },
       "desc": {
         "en": "Taking delight in the pleasures of this world, Elites have dominated the wealthy ruling class. A beautiful people, as long as you don't dig too deep.",
@@ -944,10 +1008,11 @@
         "es": "Disfrutando de los placeres de este mundo, los Élites han dominado la clase rica y dominante. Personas hermosas, siempre y cuando no hurgues muy profundo en ellas.",
         "nb": "Elitene har dominert den velstående overklassen, der de tar fryd i denne jordas gleder. Et vakkert folkeslag, så lenge du ikke graver for dypt.",
         "it": "Deliziando i piaceri di questo mondo, gli Elite hanno dominato la ricca classe dirigente. Sono persone bellissime, fino a quando non scavi troppo in profondità.",
-        "hu": "Taking delight in the pleasures of this world, Elites have dominated the wealthy ruling class. A beautiful people, as long as you don't dig too deep."
+        "hu": "Taking delight in the pleasures of this world, Elites have dominated the wealthy ruling class. A beautiful people, as long as you don't dig too deep.",
+        "fi": "Elitistit kuuluvat hallitsevaan, varakkaaseen yhteiskuntaluokkaan. Kauniita ihmisiä, kunhan et katso liian tarkkaan."
       }
     },
-
+ 
     "ze": {
       "name": {
         "en": "Zealot",
@@ -960,7 +1025,8 @@
         "sv": "Zealot",
         "es": "Fanático",
         "nb": "Selot",
-        "hu": "Zelóta"
+        "hu": "Zelóta",
+        "fi": "Fanaatikko"
       },
       "desc": {
         "en": "Always certain of the truth, Zealots are more than willing to fight for it. The fires of constant war have honed their military skills to perfection.",
@@ -973,12 +1039,13 @@
         "sv": "Alltid säker på sanningen, zeloterna är mer än villiga att kämpa för det. Bränderna i konstanta krig har finslipat sina militära färdigheter till perfektion.",
         "es": "Siempre seguros de la verdad, los Fanáticos están más que dispuestos a luchar por ella. Las llamas de la guerra constante han hecho que sus habilidades militares alcancen la perfección.",
         "nb": "Alltid sikker på sannheten, er Seloter mer enn villig til å kjempe for den. Brannene av konstant krig har finpusset deres militære ferdigheter til perfeksjon.",
-        "hu": "Always certain of the truth, Zealots are more than willing to fight for it. The fires of constant war have honed their military skills to perfection."
+        "hu": "Always certain of the truth, Zealots are more than willing to fight for it. The fires of constant war have honed their military skills to perfection.",
+        "fi": "Aina varmoina totuudesta, Fanaatikot ovat enemmän kuin valmiita taistelemaan sen puolesta. Jatkuva sodankäynti on hionut heidän taitonsa täydellisyyteen."
       }
     }
   },
-
-
+ 
+ 
   "abilities": {
     "rlly": {
       "name": {
@@ -986,50 +1053,56 @@
         "ne": "Bijeenkomst",
         "lt": "Mitingas",
         "hu": "rally",
-        "nb": "sammenkomst"
+        "nb": "sammenkomst",
+        "fi": "ralli"
       },
       "desc": {
         "en": "Produce pride, which can be use to play more cards.",
         "ne": "Produceer de Trots, zodat je meer kaarten kunt gebruiken.",
         "lt": "Vertės generavimasm, kuri leidžia naudoti daugiau kortų.",
         "hu": "Produce pride, which can be use to play more cards.",
-        "nb": "Produserer stolthet, som kan bli brukt for å spille fler kort."
+        "nb": "Produserer stolthet, som kan bli brukt for å spille fler kort.",
+        "fi": "Tuottaa ylpeyttä, millä voidaan käyttää useampia kortteja."
       }
     },
-
+ 
     "attk": {
       "name": {
         "en": "attack",
         "ne": "aanvallen",
         "lt": "Ataka",
         "hu": "támadás",
-        "nb": "angrep"
+        "nb": "angrep",
+        "fi": "Hyökkää"
       },
       "desc": {
         "en": "Trade blows with an enemy card.",
         "ne": "Ruil tegenslag met een vijands zijn kaart.",
         "lt": "Apsimaino kumtšelėjimais su priešininko kortą.",
-        "hu": "Trade blows with an enemy card."
+        "hu": "Trade blows with an enemy card.",
+        "fi": "Vahingoittaa viholliskorttia"
       }
     },
-
+ 
     "move": {
       "name": {
         "en": "move",
         "ne": "zet",
         "lt": "Judėmimas",
         "hu": "mozgás",
-        "nb": "flytt"
+        "nb": "flytt",
+        "fi": "Liiku"
       },
       "desc": {
         "en": "Reposition this card.",
         "ne": "Deze kaart een nieuwe positie geven.",
         "lt": "Kortos repozicionavimas.",
         "hu": "Reposition this card.",
-        "nb": "Flytt dette kortet"
+        "nb": "Flytt dette kortet",
+        "fi": "Siirrä korttia"
       }
     },
-
+ 
     "heal": {
       "name": {
         "en": "healing",
@@ -1042,7 +1115,8 @@
         "sv": "Helande",
         "es": "Curación",
         "nb": "Helbreding",
-        "hu": "gyógyulás"
+        "hu": "gyógyulás",
+        "fi": "Parannus"
       },
       "desc": {
         "en": "Target card gains 1 health.",
@@ -1055,10 +1129,11 @@
         "sv": "Det valda kortet får ett hälsopoäng",
         "es": "La carta objetivo gana 1 de vida.",
         "nb": "Målsatt kort får ett helsepoeng.",
-        "hu": "Target card gains 1 health."
+        "hu": "Target card gains 1 health.",
+        "fi": "Kohde saa 1:n terveyspisteen"
       }
     },
-
+ 
     "tree": {
       "name": {
         "en": "weed trees",
@@ -1071,7 +1146,8 @@
         "sv": "ogrästräd",
         "es": "árboles de hierbas",
         "nb": "Ugresstrær",
-        "hu": "gyom fák"
+        "hu": "gyom fák",
+        "fi": "Marihuanapensas"
       },
       "desc": {
         "en": "A 1/1 tree is created",
@@ -1084,10 +1160,11 @@
         "sv": "Ett 1/1 träd är skapat",
         "es": "Un árbol 1/1 es creado",
         "nb": "Et 1/1-tre blir lagd",
-        "hu": "A 1/1 tree is created"
+        "hu": "A 1/1 tree is created",
+        "fi": "Luo 1/1 pensaan"
       }
     },
-
+ 
     "abom": {
       "name": {
         "en": "abomination",
@@ -1100,7 +1177,8 @@
         "sv": "avskyvärdighet",
         "es": "abominación",
         "nb": "styggedom",
-        "hu": "utálat"
+        "hu": "utálat",
+        "fi": "hirvitys"
       },
       "desc": {
         "en": "Merge this unit with another.",
@@ -1113,10 +1191,11 @@
         "sv": "Slå ihop den här enheten med en annan",
         "es": "Esta unidad se combina con otra.",
         "nb": "Slå denne enheten sammen med en annen.",
-        "hu": "Merge this unit with another."
+        "hu": "Merge this unit with another.",
+        "fi": "Vaihda tämä yksikkö toiseen"
       }
     },
-
+ 
     "secr": {
       "name": {
         "en": "secretions",
@@ -1129,7 +1208,8 @@
         "sv": "sekretaioner",
         "es": "secreciones",
         "nb": "sekresjoner",
-        "hu": "választás"
+        "hu": "választás",
+        "fi": "sekreetio"
       },
       "desc": {
         "en": "Target enemy can not attack next turn.",
@@ -1142,10 +1222,11 @@
         "sv": "Den valda enheten kan inte attackera nästa omgång",
         "es": "El enemigo objetivo no puede atacar el próximo turno.",
         "nb": "Målsatt fiende kan ikke angripe neste runde.",
-        "hu": "Target enemy can not attack next turn."
+        "hu": "Target enemy can not attack next turn.",
+        "fi": "Kohde ei voi hyökätä seuraavalla vuorolla"
       }
     },
-
+ 
     "clne": {
       "name": {
         "en": "clone",
@@ -1158,7 +1239,8 @@
         "sv": "klon",
         "es": "clonar",
         "nb": "klone",
-        "hu": "klón"
+        "hu": "klón",
+        "fi": "klooni"
       },
       "desc": {
         "en": "Sacrifice this unit to produce a duplicate of another unit.",
@@ -1171,10 +1253,11 @@
         "sv": "Offra den här enheten för att producera en kopia av en annan enhet.",
         "es": "Sacrifica esta unidad para producir una copia de otra.",
         "nb": "Ofre denne enheten for å produsere et duplikat av en annen enhet.",
-        "hu": "Sacrifice this unit to produce a duplicate of another unit."
+        "hu": "Sacrifice this unit to produce a duplicate of another unit.",
+        "fi": "Uhraa tämä yksikkö tuottaaksesi kopion toisesta yksiköstä."
       }
     },
-
+ 
     "bees": {
       "name": {
         "en": "bees!",
@@ -1187,7 +1270,8 @@
         "sv": "Bin!",
         "es": "¡abejas!",
         "nb": "bier!",
-        "hu": "méhek!"
+        "hu": "méhek!",
+        "fi": "mehiläisiä!"
       },
       "desc": {
         "en": "All enemies in target column loose 1 health.",
@@ -1200,10 +1284,11 @@
         "sv": "Alla fiender i en siktad kolumn tappar ett hälsopoäng.",
         "es": "Toos los enemigos en la columna objetivo pierden 1 de vida.",
         "nb": "Alle fiender i målsatt kolonne mister ett helsepoeng.",
-        "hu": "All enemies in target column loose 1 health."
+        "hu": "All enemies in target column loose 1 health.",
+        "fi": "Kaikki viholliset kohdesarakkeessa menettävät 1 terveyspistettä."
       }
     },
-
+ 
     "rbld": {
       "name": {
         "en": "rebuild",
@@ -1216,7 +1301,8 @@
         "sv": "omkonstruera",
         "es": "reconstruir",
         "nb": "gjenoppbygg",
-        "hu": "újraépítés"
+        "hu": "újraépítés",
+        "fi": "Korjaa"
       },
       "desc": {
         "en": "Resurrect a dead machine.",
@@ -1229,10 +1315,11 @@
         "sv": "Återuppliva en död maskin.",
         "es": "Revive una máquina muerta.",
         "nb": "Gjenoppliv en død maskin.",
-        "hu": "Resurrect a dead machine."
+        "hu": "Resurrect a dead machine.",
+        "fi": "Herätä henkiin kuollut Kone"
       }
     },
-
+ 
     "shld": {
       "name": {
         "en": "t-shield",
@@ -1245,7 +1332,8 @@
         "es": "Escudo T",
         "nb": "t-skjold",
         "sv": "T-sköld",
-        "hu": "t-pajzs"
+        "hu": "t-pajzs",
+        "fi": "T-kilpi"
       },
       "desc": {
         "en": "All damage that would be dealt to target unit is reduced by 1 for a turn.",
@@ -1258,10 +1346,11 @@
         "sv": "All skada som skulle ha blivit handlat till enheten är nedsatt till en för en omgång.",
         "es": "Todo el daño que la unidad objetivo fuera a recibir se reduce en 1 por un turno.",
         "nb": "All skade som ville ha blitt gitt til målrettet enhet er redusert med 1 for én runde.",
-        "hu": "All damage that would be dealt to target unit is reduced by 1 for a turn."
+        "hu": "All damage that would be dealt to target unit is reduced by 1 for a turn.",
+        "fi": "Kaikki kohteelle aiheutettava vahinko vähenee 1 pisteellä vuoron ajan."
       }
     },
-
+ 
     "prci": {
       "name": {
         "en": "precise",
@@ -1274,7 +1363,8 @@
         "sv": "presis",
         "es": "preciso",
         "nb": "presis",
-        "hu": "precíz"
+        "hu": "precíz",
+        "fi": "tarkkuus"
       },
       "desc": {
         "en": "Attack an enemy of your choice regardless of defensive formations.",
@@ -1287,10 +1377,11 @@
         "sv": "Attackera en fiende av ditt val oavsett´av defensiva former",
         "es": "Ataca un enemigo a tu elección sin importar las formaciones defensivas.",
         "nb": "Angrip en fiende av ditt valg uavhengig av defensive formasjoner.",
-        "hu": "Attack an enemy of your choice regardless of defensive formations."
+        "hu": "Attack an enemy of your choice regardless of defensive formations.",
+        "fi": "Pahoinpitele valitsemaasi korttia puolustusasetelmista piittaamatta."
       }
     },
-
+ 
     "strt": {
       "name": {
         "en": "strategist",
@@ -1303,7 +1394,8 @@
         "sv": "strateg",
         "es": "estratega",
         "nb": "strateg",
-        "hu": "stratéga"
+        "hu": "stratéga",
+        "fi": "strategisti"
       },
       "desc": {
         "en": "Ally can perform an extra action this turn",
@@ -1316,10 +1408,11 @@
         "sv": "Allierade kan utföra en extra åtgärd den här omgången",
         "es": "Un aliado puede realizar una acción más en este turno",
         "nb": "Allierte kan utøve en ekstra handling denne runden",
-        "hu": "Ally can perform an extra action this turn"
+        "hu": "Ally can perform an extra action this turn",
+        "fi": "Liittolainen voi tehdä ylimääräisen liikkeen tällä vuorolla"
       }
     },
-
+ 
     "netw": {
       "name": {
         "en": "networking",
@@ -1332,7 +1425,8 @@
         "sv": "nätverk",
         "es": "conexiones",
         "nb": "nettverk",
-        "hu": "hálózat"
+        "hu": "hálózat",
+        "fi": "verkostoituminen"
       },
       "desc": {
         "en": "Gain an allies abilities.",
@@ -1345,10 +1439,11 @@
         "sv": "Få en allierads förmågor",
         "es": "Obtiene las habilidades de un aliado.",
         "nb": "Få en allierts egenskaper.",
-        "hu": "Gain an allies abilities."
+        "hu": "Gain an allies abilities.",
+        "fi": "Hanki liittolaisen kyvyt"
       }
     },
-
+ 
     "tran": {
       "name": {
         "en": "transformer",
@@ -1361,7 +1456,8 @@
         "sv": "transformator",
         "es": "transformista",
         "nb": "transformator",
-        "hu": "transformer"
+        "hu": "transformer",
+        "fi": "transformeri"
       },
       "desc": {
         "en": "Swap health and attack.",
@@ -1374,10 +1470,11 @@
         "sv": "Byt hälsa och attack",
         "es": "Intercambia ataque y vida.",
         "nb": "Bytt helse- og angrepspoeng.",
-        "hu": "Swap health and attack."
+        "hu": "Swap health and attack.",
+        "fi": "Vaihda terveys ja hyökkäys"
       }
     },
-
+ 
     "sduc": {
       "name": {
         "en": "seduction",
@@ -1390,7 +1487,8 @@
         "sv": "lockelse",
         "es": "seducción",
         "nb": "forførelse",
-        "hu": "csábítás"
+        "hu": "csábítás",
+        "fi": "viettely"
       },
       "desc": {
         "en": "Convert an enemy to your side if their health is 1.",
@@ -1403,10 +1501,11 @@
         "sv": "Konvertera en fiende till din sida om dens hälsa är ett",
         "es": "Convierte un enemigo a tu bando si su vida es 1.",
         "nb": "Konverter en fiende til din side dersom deres helse er 1.",
-        "hu": "Convert an enemy to your side if their health is 1."
+        "hu": "Convert an enemy to your side if their health is 1.",
+        "fi": "Käännytä vastustaja puolellesi jos sen terveys on 1."
       }
     },
-
+ 
     "assn": {
       "name": {
         "en": "assassin",
@@ -1419,7 +1518,8 @@
         "sv": "mördare",
         "es": "asesino",
         "nb": "snikmorder",
-        "hu": "assassin"
+        "hu": "assassin",
+        "fi": "salamurhaaja"
       },
       "desc": {
         "en": "Attack without taking damage.",
@@ -1432,10 +1532,11 @@
         "sv": "Attackera utan att ta skada",
         "es": "Ataca sin recibir daño.",
         "nb": "Angrip uten å ta imot skade.",
-        "hu": "Attack without taking damage."
+        "hu": "Attack without taking damage.",
+        "fi": "Hyökkää vahingoittamatta itseäsi."
       }
     },
-
+ 
     "delg": {
       "name": {
         "en": "delegate",
@@ -1448,7 +1549,8 @@
         "sv": "sända",
         "es": "delegar",
         "nb": "delegat",
-        "hu": "képviselő"
+        "hu": "képviselő",
+        "fi": "Valtuutettu"
       },
       "desc": {
         "en": "Trade this unit with another unit in your hand.",
@@ -1461,10 +1563,11 @@
         "sv": "Byt det här kortet med en annan enhet i din hand",
         "es": "Intercambia esta unidad con otra de tu mano.",
         "nb": "Bytt denne enheten med en annen enhet på hånda.",
-        "hu": "Trade this unit with another unit in your hand."
+        "hu": "Trade this unit with another unit in your hand.",
+        "fi": "Vaihda tämä kortti toiseen korttiin kädestäsi."
       }
     },
-
+ 
     "posn": {
       "name": {
         "en": "poison",
@@ -1477,7 +1580,8 @@
         "sv": "gift",
         "es": "veneno",
         "nb": "gift",
-        "hu": "méreg"
+        "hu": "méreg",
+        "fi": "Myrkky"
       },
       "desc": {
         "en": "Target enemy loses 1 health per turn.",
@@ -1490,10 +1594,11 @@
         "sv": "Den valda fienden förlorar ett hälsopoäng per omgång",
         "es": "El enemigo objetivo pierde 1 de vida por turno.",
         "nb": "Målsatt fiende mister ett helsepoeng per runde.",
-        "hu": "Target enemy loses 1 health per turn."
+        "hu": "Target enemy loses 1 health per turn.",
+        "fi": "Kohde menettää 1 terveyttä vuorossa"
       }
     },
-
+ 
     "bagm": {
       "name": {
         "en": "bag 'em",
@@ -1506,7 +1611,8 @@
         "sv": "Säcka dem",
         "es": "embolsar",
         "nb": "fang dem",
-        "hu": "bag 'em"
+        "hu": "bag 'em",
+        "fi": "Pussitus"
       },
       "desc": {
         "en": "Target card is returned to its owner's hand.",
@@ -1519,10 +1625,11 @@
         "sv": "Kortet du valde är tillbakadraget till ägarens hand",
         "es": "La carta objetivo retorna a la mano de su dueño.",
         "nb": "Målsatt kort blir retunert til eierens hånd.",
-        "hu": "Target card is returned to its owner's hand."
+        "hu": "Target card is returned to its owner's hand.",
+        "fi": "Kohde palautetaan omistajan käteen"
       }
     },
-
+ 
     "siph": {
       "name": {
         "en": "siphon",
@@ -1535,7 +1642,8 @@
         "sv": "sifon",
         "es": "sifón",
         "nb": "hevert",
-        "hu": "szifon"
+        "hu": "szifon",
+        "fi": "sifoni"
       },
       "desc": {
         "en": "Steal 1 health from a card of your choice.",
@@ -1548,10 +1656,11 @@
         "sv": "Stjäl ett hälsopoäng från ett kort av ditt val",
         "es": "Roba 1 de vida de una carta a tu elección.",
         "nb": "Stjel ett helsepoeng fra et valgfritt kort.",
-        "hu": "Steal 1 health from a card of your choice."
+        "hu": "Steal 1 health from a card of your choice.",
+        "fi": "Varasta 1 terveyspiste valitsemaltasi kortilta."
       }
     },
-
+ 
     "male": {
       "name": {
         "en": "male",
@@ -1564,7 +1673,8 @@
         "sv": "man",
         "es": "macho",
         "nb": "hannkjønn",
-        "hu": "férfi"
+        "hu": "férfi",
+        "fi": "mies"
       },
       "desc": {
         "en": "Can reproduce with females.",
@@ -1577,10 +1687,11 @@
         "sv": "Kan ompruduceras med kvinnor",
         "es": "Puede reproducirse con hembras.",
         "nb": "Kan reprodusere med hunkjønn.",
-        "hu": "Can reproduce with females."
+        "hu": "Can reproduce with females.",
+        "fi": "Voi lisääntyä naisten kanssa."
       }
     },
-
+ 
     "feml": {
       "name": {
         "en": "female",
@@ -1593,7 +1704,8 @@
         "sv": "kvinna",
         "es": "hembra",
         "nb": "hunkjønn",
-        "hu": "nő"
+        "hu": "nő",
+        "fi": "Nainen"
       },
       "desc": {
         "en": "Can reproduce with males.",
@@ -1606,10 +1718,11 @@
         "sv": "Kan omproduceras med män",
         "es": "Puede reproducirse con machos.",
         "nb": "Kan reprodusere med hankjønn.",
-        "hu": "Can reproduce with males."
+        "hu": "Can reproduce with males.",
+        "fi": "Voi lisääntyä miesten kanssa"
       }
     },
-
+ 
     "btle": {
       "name": {
         "en": "battle cry",
@@ -1622,7 +1735,8 @@
         "sv": "krigs gråt",
         "es": "Grito de batalla",
         "nb": "krigsrop",
-        "hu": "harci kiáltás"
+        "hu": "harci kiáltás",
+        "fi": "taisteluhuuto"
       },
       "desc": {
         "en": "Target unit gains 2 attack for the turn.",
@@ -1635,10 +1749,11 @@
         "sv": "Att träffa en enhet ger två attacker för omgången",
         "es": "La unidad objetivo gana 2 de ataque por este turno.",
         "nb": "Målsatt enhet får 2 angrep denne runden.",
-        "hu": "Target unit gains 2 attack for the turn."
+        "hu": "Target unit gains 2 attack for the turn.",
+        "fi": "Kohda saa 2 hyökkäyspistettä vuoron ajaksi."
       }
     },
-
+ 
     "detr": {
       "name": {
         "en": "determined",
@@ -1651,7 +1766,8 @@
         "sv": "avgjord",
         "es": "determinado",
         "nb": "bestemt",
-        "hu": "eltökélt"
+        "hu": "eltökélt",
+        "fi": "päättäväinen"
       },
       "desc": {
         "en": "Sacrifice this card to deal double damage.",
@@ -1664,10 +1780,11 @@
         "sv": "Offra det här kortet för att handla dubbel skada",
         "es": "Sacrifica esta carta para realizar doble daño.",
         "nb": "Ofre dette kortet for å gi dobbel skade.",
-        "hu": "Sacrifice this card to deal double damage."
+        "hu": "Sacrifice this card to deal double damage.",
+        "fi": "Uhraa tämä kortti aiheuttaaksesi kaksinkertaista vahinkoa."
       }
     },
-
+ 
     "hero": {
       "name": {
         "en": "heroic sacrifice",
@@ -1680,7 +1797,8 @@
         "sv": "hjältligt offer",
         "es": "sacrificio heroico",
         "nb": "heroisk ofring",
-        "hu": "hősies áldozat"
+        "hu": "hősies áldozat",
+        "fi": "sankarillinen uhraus"
       },
       "desc": {
         "en": "All enemy attacks must target this card for one turn.",
@@ -1693,10 +1811,11 @@
         "sv": "Alla fienders attacker måste sikta på det här kortet för en omgång",
         "es": "Todos los ataques enemigos deben tener a esta carta como objetivo por un turno.",
         "nb": "Alle fiendtlige angrep må målsette dette kortet én runde.",
-        "hu": "All enemy attacks must target this card for one turn."
+        "hu": "All enemy attacks must target this card for one turn.",
+        "fi": "Vuoron ajan kaikki viholliset voivat pahoinpidellä ainoastaan tätä korttia. "
       }
     },
-
+ 
     "serm": {
       "name": {
         "en": "super serum",
@@ -1709,7 +1828,8 @@
         "sv": "superserum",
         "es": "súper suero",
         "nb": "super-serum",
-        "hu": "szuper szérum"
+        "hu": "szuper szérum",
+        "fi": "viagra"
       },
       "desc": {
         "en": "Available health points are converted into attack points",
@@ -1722,12 +1842,13 @@
         "sv": "Tillgänliga hälsopoäng är konverterade till attackpoäng",
         "es": "Los puntos de vida disponibles se convierten en puntos de ataque.",
         "nb": "Tilgjengelige helsepoeng er konvertert til angrepspoeng.",
-        "hu": "Available health points are converted into attack points"
+        "hu": "Available health points are converted into attack points",
+        "fi": "Ylimääräiset terveyspisteet muunnetaan hyökkäyspisteiksi"
       }
     }
   },
-
-
+ 
+ 
   "futures": {
     "free": {
       "name": {
@@ -1735,174 +1856,196 @@
         "ne": "Gratis Liefde",
         "lt": "Romantika",
         "hu": "Ingyen Szeretet",
-        "nb": "Fri kjærlighet"
+        "nb": "Fri kjærlighet",
+        "fi": "Rakkaus"
       },
       "desc": {
         "en": "Cards that do not attack gain 1 point of health.",
         "ne": "Kaarten die niet aanvallen verdienen levens punt.",
         "lt": "Nepuolanti korta, gauna 1 gyvybės tašką.",
         "hu": "Cards that do not attack gain 1 point of health.",
-        "nb": "Kort som ikke angriper får 1 helsepoeng."
+        "nb": "Kort som ikke angriper får 1 helsepoeng.",
+        "fi": "Kortit jotka eivät hyökkää saavat 1 terveyspisteen."
       }
     },
-
+ 
     "blod": {
       "name": {
         "en": "Blood Feud",
         "ne": "Bloed vijandschap",
         "lt": "Kraujo liejimas",
         "hu": "Vérbosszú",
-        "nb": "Blodfeide"
+        "nb": "Blodfeide",
+        "fi": "Vihanpito"
       },
       "desc": {
         "en": "All cards must attack.",
         "ne": "Alle kaarten moeten aanvallen.",
         "lt": "Visos kortos privalo pulti.",
         "hu": "All cards must attack.",
-        "nb": "Alle kort må angripe."
+        "nb": "Alle kort må angripe.",
+        "fi": "Kaikkien korttien täytyy hyökätä"
       }
     },
-
+ 
     "rena": {
       "name": {
         "en": "Renaissance",
         "ne": "Wedergeboorte",
         "lt": "Renesansas",
         "hu": "Reneszánsz",
-        "nb": "Rennesanse"
+        "nb": "Rennesanse",
+        "fi": "Renesanssi"
       },
       "desc": {
         "en": "Players gain an extra 2 pride per turn.",
         "ne": "Spelers verdienen 2 extra trots punten per beurt.",
         "lt": "Žaidėjas gauna 2 vertės taškus per ėjimą.",
         "hu": "Players gain an extra 2 pride per turn.",
-        "nb": "Spillere får to mer stolthet per runde."
+        "nb": "Spillere får to mer stolthet per runde.",
+        "fi": "Pelaajat saavat 2 ylpeyttä lisää joka vuoro."
       }
     },
-
+ 
     "comm": {
       "name": {
         "en": "Communism",
         "ne": "Communist",
         "lt": "Komunizmas",
         "hu": "Kommunizmus",
-        "nb": "Kommunisme"
+        "nb": "Kommunisme",
+        "fi": "Kommunismi"
       },
       "desc": {
         "en": "Every action has a 50% chance to fail.",
         "ne": "Elke actie heeft 50% kans om te valen.",
         "lt": "Kiekvienas veiksmas turi 50% galimybę susimauti.",
         "hu": "Every action has a 50% chance to fail.",
-        "nb": "Hvert gjøremål har en 50% sjangse for å mislykkes."
+        "nb": "Hvert gjøremål har en 50% sjangse for å mislykkes.",
+        "fi": "Jokaisella liikkeellä on 50% mahdollisuus onnistua."
       }
     },
-
+ 
     "thdr": {
       "name": {
         "en": "Thunderdome",
         "ne": "Donderkoepel",
         "lt": "Cenzas",
         "hu": "Thunderdome",
-        "nb": "Tordenskuppel"
+        "nb": "Tordenskuppel",
+        "fi": "Ukkoskupoli"
       },
       "desc": {
         "en": "No new cards can be played.",
         "ne": "Er kan niet met nieuwe kaarten worden gespeeld",
         "lt": "Negalima į kovos lauką dėti naujų kortų.",
         "hu": "No new cards can be played.",
-        "nb": "Ingen nye kort kan spilles."
+        "nb": "Ingen nye kort kan spilles.",
+        "fi": "Uusia kortteja ei voi pelata."
       }
     },
-
+ 
     "anar": {
       "name": {
         "en": "Anarchy",
         "ne": "Anarchie",
         "lt": "Anachija",
         "hu": "Anarchia",
-        "nb": "Anarki"
+        "nb": "Anarki",
+        "fi": "Anarkia"
       },
       "desc": {
         "en": "All cards gain the move ability.",
         "ne": "Alle kaarten krijgen de verplaats kracht.",
         "lt": "Visos kortos gauna judėjimo sugebėjimą.",
         "hu": "All cards gain the move ability.",
-        "nb": "Alle kort får flytteegenskapen."
+        "nb": "Alle kort får flytteegenskapen.",
+        "fi": "Kaikki kortit voivat liikkua."
       }
     },
-
+ 
     "mira": {
       "name": {
         "en": "Miracle",
         "ne": "Wonder",
         "lt": "Stebuklas",
         "hu": "Csoda",
-        "nb": "Mirakel"
+        "nb": "Mirakel",
+        "fi": "Ihme"
       },
       "desc": {
         "en": "Cards stay alive until their health reaches -10.",
         "ne": "Kaarten blijven levend todat hun levens -10 halen.",
         "lt": "Visos kortos išlieka gyvos iki kol jų gyvybių taškai pasiekia -10.",
         "hu": "Cards stay alive until their health reaches -10.",
-        "nb": "Kort forblir i live til helsepoengene deres når -10."
+        "nb": "Kort forblir i live til helsepoengene deres når -10.",
+        "fi": "Kaikki kortit pysyvät hengissä kunnes niiden terveys on -10."
       }
     },
-
+ 
     "zvir": {
       "name": {
         "en": "Z Virus",
         "ne": "Z Virus",
         "lt": "Z Virusas",
         "hu": "Z Virus",
-        "nb": "Z-virus"
+        "nb": "Z-virus",
+        "fi": "Z-Virus"
       },
       "desc": {
         "en": "Cards that would die become zombies instead.",
         "ne": "Kaarten die dood zouden gaan, worden zombies.",
         "lt": "Kortos nemiršta, bet tampa zombiais.",
         "hu": "Cards that would die become zombies instead.",
-        "nb": "Kort som ville dødd blir til zombier i stedet."
+        "nb": "Kort som ville dødd blir til zombier i stedet.",
+        "fi": "Kuolleista korteista tulee zombeja"
       }
     },
-
+ 
     "arma": {
       "name": {
         "en": "Armageddon",
         "ne": "Armageddon",
         "lt": "Armagėdonas",
         "hu": "Armageddon",
-        "nb": "Armageddon"
+        "nb": "Armageddon",
+        "fi": "Maailmanloppu"
       },
       "desc": {
         "en": "All cards loose 1 health per turn.",
         "ne": "Alle kaarten verliezen 1 leven elke beurt.",
         "lt": "Visos kortos, kiekvieną ėjimą praranda po 1 gyvybės tašką.",
         "hu": "All cards loose 1 health per turn.",
-        "nb": "Alle kort mister 1 helsepoeng i runden."
+        "nb": "Alle kort mister 1 helsepoeng i runden.",
+        "fi": "Kaikki kortit menettävät 1 terveyttä vuorossa."
       }
     }
   },
-
-
+ 
+ 
   "analyzer": {
     "pride": {
       "en": "pride",
-      "lt": "vertė"
+      "lt": "vertė",
+      "fi": "ylpeys"
     },
-
+ 
     "cardCount": {
       "en": "cards",
-      "lt": "kortų kiekis"
+      "lt": "kortų kiekis",
+      "fi": "kortit"
     },
-
+ 
     "attack": {
       "en": "attack",
-      "lt": "Puolimo taškai"
+      "lt": "Puolimo taškai",
+      "fi": "hyökkäys"
     },
-
+ 
     "health": {
       "en": "health",
-      "lt": "Gyvibių taškai"
+      "lt": "Gyvibių taškai",
+      "fi": "terveys"
     }
   }
 }
